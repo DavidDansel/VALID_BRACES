@@ -1,1 +1,1 @@
-//this functions takes a string of braces, and determines if ther order of the braces is valid. it returns true if valid and false otherwise
+//this code takes a string of braces, and determines if ther order of the braces is valid. it returns true if valid and false otherwise
